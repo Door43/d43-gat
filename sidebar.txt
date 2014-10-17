@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gat:home|Door43 (gat)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gat|d43-gat repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gat/archive/master.zip|d43-gat.zip]]
+
+**Recent Changes**
+{{changes>ns = gat}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gat|Ethnologue data]]
+
